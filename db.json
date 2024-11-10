@@ -1,0 +1,40 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "Xbox Series X",
+      "price": 2999,
+      "img": "../img/xbox.jpg"
+    },
+    {
+      "id": "2",
+      "name": "Playstation 5",
+      "price": 3999,
+      "img": "../img/Playstation5.jpg"
+    },
+    {
+      "id": "3",
+      "name": "Nintendo Switch",
+      "price": 1549,
+      "img": "../img/NintendoSwitch.jpg"
+    },
+    {
+      "id": "4",
+      "name": "Halo Infinite",
+      "price": 60,
+      "img": "../img/halo-infinite.jpg"
+    },
+    {
+      "id": "5",
+      "name": "God of War Ragnarok",
+      "price": 90,
+      "img": "../img/God-of-war.jpg"
+    },
+    {
+      "id": "6",
+      "name": "Mario vs donkey kong",
+      "price": 70,
+      "img": "../img/mario-vs-donkey-kong-nsw.jpg"
+    }
+  ]
+}
